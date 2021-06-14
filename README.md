@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @martin-cmyk
+- 👀 I’m interested in c and c++
+- 🌱 I’m currently learning python and go
+- 💞️ I’m looking to collaborate on no one
